@@ -1,2 +1,2 @@
-# jogo-da-memoria
+# Jogo da Memória
 Curso fundamentosjs - Erick Wendel
